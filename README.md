@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying a Bachelor's in Data Science <br>at IIMAS, UNAM.<br><br>As for me and my house, <br>we code in Java.<br><br>Lisan Al-Gaib<br><br>
+I'm studying Data Science at IIMAS, UNAM.<br><br>As for me and my house, we code in Java.<br><br>Lisan Al-Gaib<br><br>
 
 
 ## 🌐 Socials:
